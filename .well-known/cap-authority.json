@@ -1,0 +1,9 @@
+{
+  "challenge": "b4568d65f63dfaed2f9c1b28e533200a375e82345c91db47c05c0d0b36ea776e",
+  "namespace": "https://schemas.capabilityadmission.org/cap/v1/",
+  "organization": "CapabilityAdmission",
+  "purpose": "CAP v1 schema namespace authority",
+  "r7r_decision_sha256": "0db2d48fbebea4462a7db2c954332c26ae0f6ff3dc184b8415047224321ddc77",
+  "repository": "capabilityadmission/cap-incubator",
+  "schema": "cap.namespace-authority/v1"
+}
